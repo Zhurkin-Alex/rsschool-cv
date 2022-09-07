@@ -1,5 +1,5 @@
 ### Zhurkin Alexsey
-
+![it`s my photo](/img/i%60m.jpg)
 * My phone number +79110886555 
 * telegram - @Alexsey_Zhurkin 
 * github - Zhurkin-Alex
